@@ -41,4 +41,5 @@ Avant de valider définitivement ce design, l’entreprise décide de réaliser 
  - Validateur W3C pour [HTML](https://validator.w3.org/) et [CSS](https://jigsaw.w3.org/css-validator/#validate_by_upload)
 
 ### Technos
-HTML, CSS
+- HTML
+- CSS
